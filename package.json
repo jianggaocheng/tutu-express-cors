@@ -1,0 +1,9 @@
+{
+  "name": "tutu-express-cors",
+  "version": "1.0.0",
+  "description": "cors middleware for tutu-backend",
+  "main": "index.js",
+  "repository": "https://github.com/jianggaocheng/tutu-express-cors.git",
+  "author": "jianggc",
+  "license": "MIT"
+}
